@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 3h | 2 |
+| Week 1 | Tier 1 | 4h | 2 |
 
 ## Contents
 
@@ -32,7 +32,7 @@ I also learned about the function of each component used to build the schematic.
 
 ### 2026-10-09 – I started working on the schematic for MPU6050 and connecting in the circuit . And... I keep getting errors in electrical check , firstly i hadn't closed all the open ends uhh like hadnt used the no c
 
-**1h**
+**2h**
 
 I started working on the schematic for MPU6050 and connecting in the circuit . And... I keep getting errors in electrical check , firstly i hadn't closed all the open ends uhh like hadnt used the no connect flag. I added those and the errors decreased but still not 0 so I'm working on it . I think I should have followed the guide more closely instead of relying so much on google and should have used  net labels instead of wires like the guide said. I just thought adding wires would be more fun..🥲 (I used gemini to understand the net labels and then wired them )
 
