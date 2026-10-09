@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 2h | 2 |
+| Week 1 | Tier 1 | 3h | 2 |
 
 ## Contents
 
@@ -21,7 +21,7 @@
 
 ### 2026-10-09 – I started working on the schematics of Starbie . I first learned to upload the sym file to kiCad , then learnt the functions of GND, SCL and SDA.
 
-**1h**
+**2h**
 
 I started working on the schematics of Starbie . I first learned to upload the sym file to kiCad , then learnt the functions of GND, SCL and SDA.
 I also learned about the function of each component used to build the schematic. Then I made up the schematic and wired the components . Esp32 , buttons , environment sensor and OLED have been added and wired .
