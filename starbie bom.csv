@@ -1,0 +1,8 @@
+﻿Item,Qty,Unit Price (PKR),Total Price (PKR),Unit Price (USD),Total Price (USD),Vendor Link,Purpose
+20cm Pin To Pin Jumper Wire Dupont Line 40 Pin Male To Male,1,170,170,0.61,0.61,https://digilog.pk/products/20cm-pin-to-pin-jumper-wire-dupont-line-40-pin-arduino-male-to-male-jumper-wire,Breadboard and component wiring
+6x6x5mm 4 Pin DIP Tactile Momentary Push Button Switch,10,20,200,0.07,0.72,https://digilog.pk/products/6x6x5mm-4-pin-dip-tactile-momentary-push-button-switch,User interaction and control inputs
+DHT11 Temperature Humidity Sensor Module With LED Light,1,270,270,0.97,0.97,https://digilog.pk/products/dht11-temperature-humidity-sensor-module-for-arduino-with-led-light-indication,Environment sensing for digital pet
+GY521 MPU6050 3 Axis Digital Gyroscope Accelerometer Module,1,390,390,1.40,1.40,https://digilog.pk/products/gy521-mpu6050-3-axis-digital-gyroscope-accelerometer-sensor-module,Motion and tilt tracking
+Arduino 0.96 Inch OLED Display Module 128x64 I2C SSD1306,1,500,500,1.80,1.80,https://digilog.pk/products/arduino-0-96-inch-oled-display-module-128x64-i2c-ssd1306-lcd-screen-white-background,Face expression and UI display
+HW-466AB ESP32 C3 Super Mini Development Board ESP32-C3FH4,1,500,500,1.80,1.80,https://digilog.pk/products/hw-466ab-esp32-c3-super-mini-development-board-esp32-c3fh4,Main microcontroller board
+TOTAL,,2030,2030,7.30,7.30,,
